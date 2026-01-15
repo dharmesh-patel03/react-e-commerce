@@ -30,7 +30,7 @@ A fully functional, responsive E-commerce application built with **React.js** an
 
 | Shop Page | Cart Page |
 |-----------|-----------|
-| ![Shop](https://via.placeholder.com/300x200?text=Shop+Page+Screenshot) | ![Cart](https://via.placeholder.com/300x200?text=Cart+Page+Screenshot) |
+|![alt text](image.png) | ![alt text](image-1.png) |
 
 *(Note: Replace these placeholder links with your actual screenshots)*
 
